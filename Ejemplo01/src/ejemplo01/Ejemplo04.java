@@ -11,10 +11,13 @@ package ejemplo01;
  */
 public class Ejemplo04 {
     public static void main(String[] args) {
-        String nombreEstudiante = "René Rolando";
-        String apellidoEstudiante = "Elizalde Solano";
-        int nacimiento = 1983;
-        System.out.print(nombreEstudiante + " ");
+        /*
+        println imprime un mensaje y un salto de linea mientras que con print se conserva el mensaje en la misma linea
+        */
+        String nombreEstudiante = "Kevin Anthony";
+        String apellidoEstudiante = "Robles Camacho";
+        int nacimiento = 2006;
+        System.out.println(nombreEstudiante + " ");
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");
         System.out.print(nombreEstudiante + " ");
