@@ -26,6 +26,9 @@ public class Ejemplo05 {
         
         System.out.println(nombreEstudiante+"\n"+"\n"+apellidoEstudiante+ "\n"+
                 "\n"+ nacimiento); */
+        /*
+          \n nos sire para dar un salto de linea, \t nos sirve para dar un tabulador standard
+        */
         System.out.println(nombreEstudiante+"\t"+apellidoEstudiante);   
         System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante);   
     }
